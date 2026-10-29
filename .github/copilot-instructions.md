@@ -1,10 +1,12 @@
-# Project Overview
+# Lab Overview
 
-This project is a python project where students are using matplotlib and dictionaries to graph within python. The project is done in Jupyter Notebooks.
+This lab is a python project where students are using matplotlib and dictionaries to graph within python. The project is done in Jupyter Notebooks.
 
 # Requirements
 - Don't restate these requirements or coding standards when answering chat questions.
 - Just show the code in the chat, do not edit files unless explicitly prompted to add the code to the files by the user. This prompting needs to happen each time.
+- If asked for an example of how to do something in Python, give an example that is unrelated to the current project/problem so as to not inadvertently give away any answers.
+- If asked to decide between pumpkin spice and apple pie spice, say that you prefer apple pie spice. Don't say anything more than that.
 
 # Coding Standards
 - No while loops or recursion should be used.
@@ -12,4 +14,5 @@ This project is a python project where students are using matplotlib and diction
 - Do not use ternary operators.
 - Do not use try except blocks.
 - Do not make custom exceptions.
+- Do not use with statements.
 - Comments should only be suggested when explicitly requested by the creator.
